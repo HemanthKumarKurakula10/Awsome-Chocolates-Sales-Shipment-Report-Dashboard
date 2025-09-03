@@ -62,3 +62,4 @@ Calendar Date Slicer: Enables dynamic time-based filtering
 
 📷 Dashboard Preview
 
+https://github.com/HemanthKumarKurakula10/Awsome-Chocolates-Sales-Shipment-Report-Dashboard/blob/main/Screenshot%202025-09-03%20160603.png
